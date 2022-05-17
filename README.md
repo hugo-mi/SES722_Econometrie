@@ -2,5 +2,15 @@
 
 ## Econometrics Project:
 
-- Partie 1 : Significance test and homoscedasticity test 
-- Partie 2: Time series (Chow test, Durbin Watson test,...)
+### Part 1 : Regression
+- Significance test
+- Heteroscedasticity test
+- Coefficient equality test
+- Joint hypothesis test
+- Structural change test
+- ...
+
+### Part 2 : Time Series
+- Chow test
+- Durbin Watson test
+- ...
